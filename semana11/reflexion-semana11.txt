@@ -1,0 +1,7 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita una base de datos para guardar y organizar la información de manera ordenada.
+La autenticación de usuarios permite identificar quién participa y proteger las acciones importantes dentro de la plataforma.
+La protección de información es esencial para cuidar la privacidad de las personas y evitar usos indebidos de sus datos.
+Cuando los usuarios confían en que su información está segura, participan con más libertad y responsabilidad.
+Además, estos elementos ayudan a mantener la integridad de los registros y la transparencia del proyecto.
+También permiten que la plataforma funcione de manera más segura y sostenible en el tiempo.
+Por eso, la combinación de base de datos, autenticación y protección de datos es fundamental para cualquier sistema digital comunitario.
